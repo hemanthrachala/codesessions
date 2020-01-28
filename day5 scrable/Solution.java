@@ -15,7 +15,7 @@ public class Solution {
                     a = a + arr[i].charAt(j);
                     
             }
-            a = a + " ";
+            a = a + "  ";
         }System.out.println(a);  
         }
     }
